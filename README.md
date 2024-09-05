@@ -12,8 +12,8 @@ Scripts and settings for connecting to private EC2 instances via SSM. The script
 
 Once complete a new tab will show in the dropdown that will run the script then connect to your instances!
 
-(https://github.com/dmills-git/win-terminal-ssm-connect/blob/main/images/win-terminal-script.png)
+!(https://github.com/dmills-git/win-terminal-ssm-connect/blob/main/images/win-terminal-script.png)
 
-(https://github.com/dmills-git/win-terminal-ssm-connect/blob/main/images/win-terminal-tab.png)
+!(https://github.com/dmills-git/win-terminal-ssm-connect/blob/main/images/win-terminal-tab.png)
 
-(https://github.com/dmills-git/win-terminal-ssm-connect/blob/main/images/win-terminal-settings.png)
+!(https://github.com/dmills-git/win-terminal-ssm-connect/blob/main/images/win-terminal-settings.png)
