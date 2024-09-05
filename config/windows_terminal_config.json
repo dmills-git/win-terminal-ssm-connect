@@ -1,0 +1,14 @@
+{
+    "closeOnExit": "never",
+    "commandline": "powershell.exe .\\EC2Connect-SystemsManager.ps1",
+    "hidden": false,
+    "name": "AWS Instance Connect SSM Direct",
+    "startingDirectory": "%USERPROFILE%"
+},
+{
+    "closeOnExit": "never",
+    "commandline": "powershell.exe .\\EC2Connect-SystemsManagerSSH.ps1",
+    "hidden": false,
+    "name": "AWS Instance Connect SSM SSH",
+    "startingDirectory": "%USERPROFILE%"
+}
