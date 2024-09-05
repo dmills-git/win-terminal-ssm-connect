@@ -1,0 +1,7 @@
+{
+    "closeOnExit": "never",
+    "commandline": "powershell.exe .\\EC2Connect-SystemsManager.ps1",
+    "hidden": false,
+    "name": "AWS Instance SSM Connect",
+    "startingDirectory": "%USERPROFILE%"
+}
